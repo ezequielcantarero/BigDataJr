@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Pyrefly (config local con rutas de mi máquina)
+pyrefly.toml
